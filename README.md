@@ -1,2 +1,2 @@
 # digitalnotewallet
-v1.0.19 - Use this GUI wallet to swap your coins to the new DigitalNote 2.0 wallet
+Use this GUI wallet to swap your coins to the new DigitalNote 2.0 wallet
